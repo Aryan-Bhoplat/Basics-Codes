@@ -1,0 +1,39 @@
+1. Write a program to create a list of squares for even numbers between 1 and 20 using list comprehension.
+
+2. Convert a dictionary of student names and marks into a list of tuples using dictionary comprehension.
+
+3. Use lambda and filter to extract all words longer than 4 characters from a list.
+
+4. Combine two lists of names and ages using zip and print them.
+
+5. Use map to convert a list of temperatures in Celsius to Fahrenheit.
+
+6. Use enumerate to print items of a list with their indices.
+
+7. Write a program to handle division by zero using try-except.
+
+8. Handle file not found error while trying to open a file.
+
+9. Write a program to write and then read student names from a text file.
+
+10. Count the number of lines in a file.
+
+11. Create a class `Student` with attributes name and marks. Add a method to display student details.
+
+12. Create a class method to keep track of the number of students created.
+
+13. Add a static method to the Student class to check if a given mark is passing (>=35).
+
+14. Write a program to count the frequency of elements in a tuple.
+
+15. Check whether a given element exists in a tuple or not.
+
+16. Write a program to perform union and intersection of two sets.
+
+17. Remove duplicates from a list using a set.
+
+18. Create a dictionary from two lists: one with keys and one with values.
+
+19. Write a program to find the key with the maximum value in a dictionary.
+
+20. Merge two dictionaries and update if any key is repeated.
