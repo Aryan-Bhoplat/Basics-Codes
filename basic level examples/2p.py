@@ -1,0 +1,5 @@
+a=int(input("1st no.:"))
+b=int(input("2nd no.:"))
+c=int(input("3rd no.:"))
+z=(a+b+c)
+print(z)
